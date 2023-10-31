@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hesamyavari" alt="hesamyavari" /></a> </p>
 
-- 🔭 I’m currently working on **Snapp Datacenter Team**
+- 🔭 I’m currently working on **Medline Cloud Team**
 
-- 🌱 I’m currently learning **Golang, Kubernetes, ArgoCD**
+- 🌱 I’m currently learning **Azure, ArgoCD**
 
 - 👯 I’m looking to collaborate on **DevopsHobbies**
 
-- 🤝 I’m looking for help with **Infrastructure, Cloud**
+- 🤝 I’m looking for help with **Infrastructure, Cloud, DevOps**
 
-- 💬 Ask me about **Terraform, AWS, Bash, Vmware, Hardware, CI/CD, Git**
+- 💬 Ask me about **Terraform, AWS, Bash, Vmware, Hardware, CI/CD, Git, Kubernetes, Azure**
 
 - 📫 How to reach me **Hyavari1@gmail.com**
 
