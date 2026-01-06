@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Medline Cloud Team**
 
-- 🌱 I’m currently learning **Azure, ArgoCD**
+- 🌱 I’m currently learning **Anything seems new :D **
 
 - 👯 I’m looking to collaborate on **DevopsHobbies**
 
